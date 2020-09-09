@@ -1,0 +1,15 @@
+{
+    "name": "programichq/laravel-permission",
+    "description": "Permission handling for Laravel 5.8 and up",
+    "keywords": [
+        "programic",
+        "laravel",
+        "permission",
+        "permissions",
+        "roles",
+        "acl",
+        "security"
+    ],
+    "homepage": "https://github.com/programichq/laravel-permission",
+    "license": "MIT"
+}
